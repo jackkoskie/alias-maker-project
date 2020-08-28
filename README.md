@@ -2,10 +2,10 @@
 By Jack Koskie
 
 ## Table of Contents
-1. [What is The ALIAS Maker Project?](https://github.com/GoldenXLence/alias-maker-project/new/master?readme=1#what-is-the-alias-maker-project)
-1. [What is Vatsim?](https://github.com/GoldenXLence/alias-maker-project/new/master?readme=1#what-is-vatsim)
-1. [What is an ALIAS file?](https://github.com/GoldenXLence/alias-maker-project/new/master?readme=1#what-is-an-alias-file)
-1. [Disclamer](https://github.com/GoldenXLence/alias-maker-project/new/master?readme=1#disclamer)
+1. What is The ALIAS Maker Project?
+1. What is Vatsim?
+1. What is an ALIAS file?
+1. Disclamer
 
 ## What is `The ALIAS Maker Project`?
 `The ALIAS Maker Project` is a project started by Jack Koskie for air traffic controllers (ATC) on the [Vatsim Network](https://www.vatsim.net). The actual ALIAS maker is just a simple batch (.bat) file that will just make a simle text (.txt) file that [Euroscope](http://www.euroscope.hu) can read...
