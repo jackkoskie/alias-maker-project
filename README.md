@@ -5,6 +5,7 @@ By Jack Koskie
 1. What is The ALIAS Maker Project?
 1. What is Vatsim?
 1. What is an ALIAS file?
+1. List of Commands
 1. Disclamer
 
 ## What is `The ALIAS Maker Project`?
@@ -17,6 +18,9 @@ Ok maybe thats too simple. Lets Break it down a bit.
 
 ## What is an ALIAS file?
 An ALIAS file is a simple text (.txt) file that allows controlers to use simple commands that all start with dots (.) to write out long sentances to use to communicate with pilots that are text only.
+
+## List of Commands
+_Comming Soon!_
 
 ## Disclamer
 The ALIAS Maker Project is designed to only be used with flight _simulation_.
