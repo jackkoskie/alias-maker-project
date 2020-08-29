@@ -2,10 +2,11 @@
 cls
 title ALIAS MAKER PROJECT BY JACK KOSKIE
 echo.
-echo 1) Ground
-echo 2) Tower
-echo 3) **Terminal**
-echo 4) **Center**
+echo 1) **Clearence**
+echo 2) Ground
+echo 3) Tower
+echo 4) **Terminal**
+echo 5) **Center**
 echo.
 echo (* = NOT YET IMPLEMENTED)
 echo.
@@ -13,20 +14,27 @@ set /p option="Please choose a position number: "
 
 if %option% == 1 {
     cls
-    goto ground
+    goto clearence
 }
 if %option% == 2 {
     cls
-    goto tower
+    goto ground
 }
 if %option% == 3 {
     cls
-    goto terminal
+    goto tower
 }
 if %option% == 4 {
     cls
+    goto terminal
+}
+if %option% == 5 {
+    cls
     goto center
 }
+echo.
+echo FATAL ERROR
+pause
 exit
 
 :ground
